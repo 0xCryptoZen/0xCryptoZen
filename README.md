@@ -1,6 +1,6 @@
 ## Hi, I'm Zen 👋
 
-📍 __London__ | 💎 __DeFi 研究院__ | 🤖 __AI Vibe__ | 🎨 __艺术家__ | 🚀 __Everything can on the chain__ <img src="https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"> <img src="https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenCode"> <img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+📍 __London__ | 💎 __DeFi Researcher__ | 🤖 __AI Vibe Enthusiast__ | 🚀 __Everything can on the chain__ <img src="https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"> <img src="https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenCode"> <img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" alt="Codex">
 
 > Building AI-powered tools for Sui blockchain. Passionate about making smart contract development accessible to everyone.
 
