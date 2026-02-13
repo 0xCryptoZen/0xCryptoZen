@@ -1,6 +1,6 @@
 ## Hi, I'm Zen 👋
 
-📍 __London__ | 💎 __DeFi Researcher__ | 🤖 __AI Vibe Enthusiast__ | 🚀 __Everything can on the chain__ <img src="https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"> <img src="https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenCode"> <img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+💎 __DeFi Researcher__ | 🤖 __AI Vibe Enthusiast__ |  <img src="https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"> <img src="https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenCode"> <img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" alt="Codex">
 
 ---
 
