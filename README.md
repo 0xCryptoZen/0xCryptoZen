@@ -1,10 +1,6 @@
 ## Hi, I'm Zen 👋
 
-📍 __London__ | 🧙 __Web3 Builder__ | 🚀 __Everything can on the chain__
-
-<img src="https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
-<img src="https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenCode">
-<img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+📍 __London__ | 🧙 __Web3 Builder__ | 🚀 __Everything can on the chain__ <img src="https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"> <img src="https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenCode"> <img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" alt="Codex">
 
 > Building AI-powered tools for Sui blockchain. Passionate about making smart contract development accessible to everyone.
 
@@ -31,13 +27,6 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xCryptoZen&theme=tokyo-night)](https://github.com/0xCryptoZen)
 
 ---
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xCryptoZen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6FBCF0&icon_color=6FBCF0" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCryptoZen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6FBCF0" alt="Top Languages" width="48%">
-</div>
 
 ---
 
